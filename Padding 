@@ -1,5 +1,0 @@
-VStack {
-            Text("Knock, knock!")
-                .padding()
-            Text("Who's there?")
-        }
